@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "579e3a54b9b50720",
+    "type": "split",
+    "children": [
+      {
+        "id": "5256b89cdf059cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c00ad2707cf13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec297c49eff9c58d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a51a181454d0cc66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ee56a693cc2b2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9824b9961fcfb07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "635013e8f4dfebb6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87ec7ecebe508496",
+    "type": "split",
+    "children": [
+      {
+        "id": "682fd219e5702312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6beeef18dd0aa642",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "123e3e8e56ddcc7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47c559fe73c3cbc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a55d6a5059d15436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          },
+          {
+            "id": "e4d0252fda8eb8ab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "a8ee56a693cc2b2a",
+  "lastOpenFiles": [
+    "private/memos/2023-01-15.md",
+    "_index.md",
+    "notes/男女之间真的有纯友谊关系吗？ - 知乎.md",
+    "notes/尝试使用 Obsidian 快速编辑 blog 文章.md",
+    "notes/环境配置指南.md"
+  ]
+}
