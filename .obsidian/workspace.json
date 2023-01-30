@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wslip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4518a2f2c8ec809",
+  "active": "c9824b9961fcfb07",
   "lastOpenFiles": [
     "WSL2 折腾笔记.md",
     "README.md",

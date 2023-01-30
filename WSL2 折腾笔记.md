@@ -51,7 +51,7 @@ source ~/.bashrc
 ```sh
 #!/bin/sh
 hostip=$(cat /etc/resolv.conf | grep nameserver | awk '{ print $2 }')
-wslip=$(hostname -I | awk '{print $1}')
+#wslip=$(hostname -I | awk '{print $1}')
 port=<PORT>
 
 PROXY_HTTP="http://${hostip}:${port}"
@@ -73,7 +73,7 @@ unset_proxy(){
 
 test_setting(){
     echo "Host ip:" ${hostip}
-    echo "WSL ip:" ${wslip}
+    #echo "WSL ip:" ${wslip}
     echo "Current proxy:" $https_proxy
 }
 
