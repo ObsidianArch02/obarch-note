@@ -47,30 +47,9 @@
       "icon": "quote-glyph"
     },
     {
-      "id": "obsidian-pangu:pangu-format",
-      "name": "盘古 PanGu: 为中英文字符间自动加入空格",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Mod",
-            "Shift"
-          ],
-          "key": "s"
-        },
-        {
-          "modifiers": [
-            "Ctrl",
-            "Shift"
-          ],
-          "key": "s"
-        }
-      ],
-      "icon": "bot-glyph"
-    },
-    {
       "id": "obsidian-git:commit",
       "name": "Obsidian Git: Commit all changes",
-      "icon": "command-glyph"
+      "icon": "import-glyph"
     }
   ],
   "appendMethod": "workspace",
