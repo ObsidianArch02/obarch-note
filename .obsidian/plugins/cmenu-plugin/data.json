@@ -47,14 +47,50 @@
       "icon": "quote-glyph"
     },
     {
-      "id": "obsidian-git:commit",
-      "name": "Obsidian Git: Commit all changes",
-      "icon": "import-glyph"
+      "id": "cmenu-plugin:editor:toggle-checklist-status",
+      "name": "cMenu: Toggle checklist status",
+      "icon": "checkbox-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "obsidian-pangu:pangu-format",
+      "name": "盘古 PanGu: 为中英文字符间自动加入空格",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "s"
+        },
+        {
+          "modifiers": [
+            "Ctrl",
+            "Shift"
+          ],
+          "key": "s"
+        }
+      ],
+      "icon": "bot-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-embed",
+      "name": "cMenu: Add embed",
+      "icon": "note-glyph"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 9
+  "cMenuNumRows": 14
 }
