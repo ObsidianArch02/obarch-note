@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "客制化键盘解决方案.md",
+                "file": "操作系统 & 服务器运维折腾笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "客制化键盘解决方案.md",
+                "file": "操作系统 & 服务器运维折腾笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "客制化键盘解决方案.md"
+                "file": "操作系统 & 服务器运维折腾笔记.md"
               }
             }
           },
@@ -164,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f172ca4f6f21265b",
+  "active": "f57ec47a5480c565",
   "lastOpenFiles": [
-    "操作系统 & 服务器运维折腾笔记.md",
     "客制化键盘解决方案.md",
+    "操作系统 & 服务器运维折腾笔记.md",
     "高效的文本编辑器.md",
     "Windows 下的包管理.md",
     "README.md",
