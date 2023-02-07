@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f172ca4f6f21265b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电子书 & 学习材料.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f57ec47a5480c565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2f7f9aa625486b08",
+            "id": "57a7b72f64e4850e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电子书 & 学习材料.md",
+                "file": "操作系统 & 服务器运维折腾笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电子书 & 学习材料.md",
+                "file": "操作系统 & 服务器运维折腾笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子书 & 学习材料.md"
+                "file": "操作系统 & 服务器运维折腾笔记.md"
               }
             }
           },
@@ -176,17 +152,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f172ca4f6f21265b",
+  "active": "a8ee56a693cc2b2a",
   "lastOpenFiles": [
+    "Arch Linux 完全折腾指南.md",
     "客制化键盘解决方案.md",
     "操作系统 & 服务器运维折腾笔记.md",
-    "电子书 & 学习材料.md",
+    "归档/Windows 下的包管理.md",
     "高效的文本编辑器.md",
-    "Windows 下的包管理.md",
-    "README.md",
-    "private/memos/2023-01-15.md",
-    "_index.md",
-    "notes/男女之间真的有纯友谊关系吗？ - 知乎.md",
-    "notes/尝试使用 Obsidian 快速编辑 blog 文章.md"
+    "电子书 & 学习材料.md",
+    "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
+    "未命名.md",
+    "归档/WSL2 与宿主机网络互通设置.md",
+    "归档/openwrt 基础配置.md"
   ]
 }
