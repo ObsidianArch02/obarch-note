@@ -11,11 +11,15 @@
             "id": "57a7b72f64e4850e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md",
-                "mode": "source",
-                "source": true
+                "file": "Arch Linux 折腾指南.canvas",
+                "viewState": {
+                  "x": -152,
+                  "y": 594.5,
+                  "zoom": -2.1843978543152174,
+                  "snapToGrid": true
+                }
               }
             }
           }
@@ -69,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5085258483887,
+    "collapsed": true
   },
   "right": {
     "id": "87ec7ecebe508496",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md",
+                "file": "Arch Linux 折腾指南.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md",
+                "file": "Arch Linux 折腾指南.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md"
+                "file": "Arch Linux 折腾指南.canvas"
               }
             }
           },
@@ -142,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,14 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a8ee56a693cc2b2a",
+  "active": "57a7b72f64e4850e",
   "lastOpenFiles": [
+    "电子书 & 学习材料.md",
+    "操作系统 & 服务器运维折腾笔记.md",
     "Arch Linux 完全折腾指南.md",
     "客制化键盘解决方案.md",
-    "操作系统 & 服务器运维折腾笔记.md",
     "归档/Windows 下的包管理.md",
     "高效的文本编辑器.md",
-    "电子书 & 学习材料.md",
     "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
     "未命名.md",
     "归档/WSL2 与宿主机网络互通设置.md",
