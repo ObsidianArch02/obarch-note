@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57a7b72f64e4850e",
+  "active": "e4d0252fda8eb8ab",
   "lastOpenFiles": [
     "电子书 & 学习材料.md",
     "操作系统 & 服务器运维折腾笔记.md",
