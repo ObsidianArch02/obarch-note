@@ -15,8 +15,8 @@
               "state": {
                 "file": "Arch Linux 折腾指南.canvas",
                 "viewState": {
-                  "x": -152,
-                  "y": 594.5,
+                  "x": -211.08981481481442,
+                  "y": 1844.022314814814,
                   "zoom": -2.1843978543152174,
                   "snapToGrid": true
                 }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5085258483887,
-    "collapsed": true
+    "width": 267.5085258483887
   },
   "right": {
     "id": "87ec7ecebe508496",
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
