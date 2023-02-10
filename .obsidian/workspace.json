@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "cc599fa7f56de6bc",
+            "id": "c383f18b400e378d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,9 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc599fa7f56de6bc",
+  "active": "c383f18b400e378d",
   "lastOpenFiles": [
     "操作系统 & 服务器运维折腾笔记.md",
+    "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md",
     "Arch Linux 折腾指南.canvas",
     "电子书 & 学习材料.md",
     "Arch Linux 完全折腾指南.md",
@@ -175,7 +176,6 @@
     "归档/Windows 下的包管理.md",
     "高效的文本编辑器.md",
     "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
-    "未命名.md",
-    "归档/WSL2 与宿主机网络互通设置.md"
+    "未命名.md"
   ]
 }
