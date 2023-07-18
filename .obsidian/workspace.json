@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57a7b72f64e4850e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统 & 服务器运维折腾笔记.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c383f18b400e378d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md",
-                "mode": "source",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +67,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f6ffdbcc5c017242",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -167,15 +165,20 @@
   },
   "active": "c383f18b400e378d",
   "lastOpenFiles": [
-    "操作系统 & 服务器运维折腾笔记.md",
+    "客制化键盘解决方案.md",
+    "未命名.canvas",
+    "归档/家庭流媒体服务器 Jellyfin 方案.md",
+    "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
+    "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例_副本.md",
+    "归档/WSL2 与宿主机网络互通设置_副本.md",
+    "归档/Windows 下的包管理_副本.md",
     "归档/GitHub 添加 ssh 密钥 & 操作系统 ssh 密钥生成.md",
+    "操作系统 & 服务器运维折腾笔记.md",
     "Arch Linux 折腾指南.canvas",
     "电子书 & 学习材料.md",
     "Arch Linux 完全折腾指南.md",
-    "客制化键盘解决方案.md",
     "归档/Windows 下的包管理.md",
     "高效的文本编辑器.md",
-    "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
     "未命名.md"
   ]
 }
