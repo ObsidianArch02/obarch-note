@@ -11,15 +11,8 @@
             "id": "c383f18b400e378d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +154,10 @@
   },
   "active": "c383f18b400e378d",
   "lastOpenFiles": [
-    "客制化键盘解决方案.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
     "未命名.canvas",
+    "客制化键盘解决方案.md",
     "归档/家庭流媒体服务器 Jellyfin 方案.md",
     "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
     "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例_副本.md",
