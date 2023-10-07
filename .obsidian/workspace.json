@@ -126,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.canvas"
+              }
             }
           },
           {
@@ -152,11 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c383f18b400e378d",
+  "active": "a8ee56a693cc2b2a",
   "lastOpenFiles": [
+    "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
-    "未命名.canvas",
     "客制化键盘解决方案.md",
     "归档/家庭流媒体服务器 Jellyfin 方案.md",
     "归档/在 virtualbox 虚拟机中部署 openwrt 的配置实例.md",
